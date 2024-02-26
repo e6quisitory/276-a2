@@ -9,3 +9,4 @@ The implemented features are the following:
 - A new student can be added using the `Add New Student` link on the main page
 - An existing student's info can be updated using the `Edit` button in each student box
 - During the student creation or editing phase, if you change your mind and do not want to go through with the action, you can `Cancel`. 
+- An existing student can be deleted using the `Delete` button in each student's box
